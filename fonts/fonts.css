@@ -1,0 +1,75 @@
+@font-face {
+    font-family: 'Gilroy-ExtraBold';
+    src: local('Gilroy ExtraBold'), 
+    local('Gilroy-ExtraBold'), 
+    url('Gilroyextrabold.woff2') format('woff2'), 
+    url('Gilroyextrabold.woff') format('woff'), 
+    url('Gilroyextrabold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy-Bold';
+  src: url('gilroy-bold/Gilroy-Bold.eot');
+  src: url('gilroy-bold/Gilroy-Bold.woff2') format('woff2'),
+       url('gilroy-bold/Gilroy-Bold.woff') format('woff'),
+       url('gilroy-bold/Gilroy-Bold.ttf') format('truetype'),
+       url('gilroy-bold/Gilroy-Bold.svg#Gilroy-Bold') format('svg'),
+       url('gilroy-bold/Gilroy-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy-Semibold';
+  src: url('gilroy-semibold/Gilroy-Semibold.eot');
+  src: url('gilroy-semibold/Gilroy-Semibold.woff2') format('woff2'),
+       url('gilroy-semibold/Gilroy-Semibold.woff') format('woff'),
+       url('gilroy-semibold/Gilroy-Semibold.ttf') format('truetype'),
+       url('gilroy-semibold/Gilroy-Semibold.svg#Gilroy-Semibold') format('svg'),
+       url('gilroy-semibold/Gilroy-Semibold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy-Regular';
+  src: url('gilroy-regular/Gilroy-Regular.eot');
+  src: url('gilroy-regular/Gilroy-Regular.woff2') format('woff2'),
+       url('gilroy-regular/Gilroy-Regular.woff') format('woff'),
+       url('gilroy-regular/Gilroy-Regular.ttf') format('truetype'),
+       url('gilroy-regular/Gilroy-Regular.svg#Gilroy-Regular') format('svg'),
+       url('gilroy-regular/Gilroy-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans-Bold';
+    src: url('Open_Sans/OpenSans-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans-SemiBold';
+    src: url('Open_Sans/OpenSans-SemiBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans-ExtraBold';
+    src: url('Open_Sans/OpenSans-ExtraBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans-Light';
+    src: url('Open_Sans/OpenSans-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
